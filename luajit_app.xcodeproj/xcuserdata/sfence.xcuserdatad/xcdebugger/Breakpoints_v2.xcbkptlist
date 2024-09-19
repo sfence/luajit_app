@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "01882581-8452-4195-AF21-650F94599888"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "2BC5BDE2-A649-4888-9CFB-82113F5FB6F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "lj_err_unwind_dwarf"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "2BC5BDE2-A649-4888-9CFB-82113F5FB6F5 - e28c2b17ced5f713"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lj_err_unwind_dwarf"
+                  moduleName = "luajit_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sfence/Desktop/minetest/tests/luajit_app/lib/LuaJIT/src/lj_err.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "448"
+                  endingLineNumber = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
